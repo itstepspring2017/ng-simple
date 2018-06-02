@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "trulala",
+      "location": "oz"
+    },
+    {
+      "name": "foma",
+      "location": "ukraine",
+      "id": 3
+    },
+    {
+      "name": "alen",
+      "location": "turcel",
+      "id": 4
+    },
+    {
+      "name": "ola",
+      "location": "usa",
+      "id": 4
+    }
+  ],
+  "urlNav": [
+    {
+      "name": "home",
+      "href": "/pages/home.html"
+    },
+    {
+      "name": "galary",
+      "href": "/pages/galary.html"
+    },
+    {
+      "name": "about",
+      "href": "/pages/about.html"
+    },
+    {
+      "name": "search",
+      "href": "/pages/search.html"
+    }
+  ],
+  "dataIMG": [
+    {
+      "id": "1",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVRSY2E3jeZxjonIqsMomJD6tUZXLV1kFngLPEF6xPQaSoMogr"
+    },
+    {
+      "id": "2",
+      "img_url": "https://i.ytimg.com/vi/XZ3B3Y1MPs4/maxresdefault.jpg"
+    },
+    {
+      "img_url": "http://nb-ugra.ru/wp-content/uploads/2018/01/photo-placeholder-8.jpg",
+      "id": "iMJtOnx"
+    }
+  ],
+  "todos": [
+    {
+      "text": "Изучить JavaScript"
+    },
+    {
+      "text": "Изучить Vue"
+    },
+    {
+      "text": "Создать что-нибудь классное"
+    }
+  ],
+  "cars": [
+    {
+      "name": "dsfd",
+      "date": "3:16:34",
+      "model": "dfsdf",
+      "isSolid": true,
+      "id": 1
+    },
+    {
+      "name": "sdfsdf",
+      "date": "3:16:37",
+      "model": "sdfsdf",
+      "isSolid": true,
+      "id": 2
+    },
+    {
+      "name": "sdfsdfs",
+      "date": "3:19:23",
+      "model": "sdfsdf",
+      "isSolid": false,
+      "id": 3
+    },
+    {
+      "name": "sdfsdf",
+      "date": "3:19:28",
+      "model": "sdfsdf",
+      "isSolid": true,
+      "id": 4
+    },
+    {
+      "name": "sdfsdf",
+      "date": "3:19:30",
+      "model": "sdf",
+      "isSolid": true,
+      "id": 5
+    }
+  ]
+}
